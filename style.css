@@ -1,0 +1,16 @@
+.bloc {
+    height: 500px;
+    width: 500px;
+    background-image: url("./123\ png.jpg") ;
+    background-size: cover;
+    margin: 0 auto ;
+
+
+}
+
+.bloc h1 {
+    color: white;
+    text-align: center;
+    margin-top: 25%;
+    
+}
